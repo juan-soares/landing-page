@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./src/styles.css"> 
+    <link rel="stylesheet" href="./src/styles.css">
+    <link rel="stylesheet" href="./src/responsive.css">  
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;900&display=swap" rel="stylesheet">
@@ -32,7 +33,7 @@
     </section>
     <section class="courses-section">
       <div class="cards">
-      <article>
+      <article class="card">
         <img src="./assets/img/piano.png" alt="Ícone de tecla de piano."/>
         <strong>Plano popular</strong>
         <p>Texto texto texto</p>
@@ -40,7 +41,7 @@
           <img src="./assets/img/arrow-right.svg" alt="Ir para página do curso."/>
         </a>
       </article>
-      <article>
+      <article class="card">
         <img src="./assets/img/clef.png" alt="Ícone da clave de sol."/>
         <strong>Teoria musical</strong>
         <p>Texto texto texto</p>
@@ -48,7 +49,7 @@
           <img src="./assets/img/arrow-right.svg" alt="Ir para página do curso."/>
         </a>
       </article>
-      <article>
+      <article class="card">
         <img src="./assets/img/sax.png" alt="Ícone de saxofone."/>
         <strong>Sax alto</strong>
         <p>Texto texto texto</p>
@@ -56,7 +57,7 @@
           <img src="./assets/img/arrow-right.svg" alt="Ir para página do curso."/>
         </a>
       </article>
-      <article>
+      <article class="card">
         <img src="./assets/img/drums.png" alt="Ícone de bateria."/>
         <strong>Bateria</strong>
         <p>Texto texto texto</p>
@@ -64,27 +65,28 @@
           <img src="./assets/img/arrow-right.svg" alt="Ir para página do curso."/>
         </a>
       </article>
-      <h2>E <span class="text-primary">vários</span> outros!</h2>
-      <a href="#">Conhecer os cursos</a>
+      <h2 class="text-center">E <span class="text-primary">vários</span> outros!</h2>
+      <a href="#" class="button mt-2 mx-auto">Conhecer cursos</a>
       </div>
     </section>
   </main> 
   <footer>
     <div>
-      <img src="./assets/img/logo.svg" alt="Tom's Jazz School" />
-      <p>Texto texto texto</p>
+      <img src="./assets/img/logo.svg" alt="Tom's Jazz School" class="mt-1 mb-1"/>
+      <p class="mb-2">Texto texto texto</p>
     </div>
 
-    <nav>
+    <nav class="mb-2">
       <a href="#">Início</a>
       <a href="#">Cursos</a>
       <a href="#">Eventos</a>
       <a href="#">Contato</a>
     </nav>
    
-    <form>
-      <label for="email">Receba materiais gratuitos no seu email.</label>
-      <input type="text" name="email" id="email" placeholder="Digite o seu email."/>
+    <form class="newsletter-form">
+      <label for="email" class="mb-1">Receba materiais gratuitos no seu email.</label>
+      <input type="text" name="email" id="email" class="mb-1" placeholder="Digite o seu email."/>
+      <button class="button mb-2">Quero receber</button
     </form>
   </footer>
   </body>
