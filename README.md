@@ -15,6 +15,7 @@
 <p>Landing page inicial de uma escola de música, utilizando diferentes conceitos de estilização e responsividade para diferentes tamanhos de tela.</p>
 
 ## Demo
+![](assets/demo/landing-page.gif)
 
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/>
