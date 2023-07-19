@@ -21,9 +21,10 @@
           
 
 ## Funcionalidades
-- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 1`: Exibir informações genéricas sobre uma escola de música ficticia e seus cursos.
 ## Execução
-- `Passo 1`: descrição da funcionalidade 1
+- `Passo 1`: Baixar o projeto.
+- `Passo 2`: No prompt de comando, executar o comando `npm start`.
 ## Autores
 | [<img src="https://avatars.githubusercontent.com/u/97527277" width=115><br><sub>Juan Carlos</sub>](https://github.com/juan-soaraes) |
 | :---: |
