@@ -10,12 +10,15 @@
 * 🔨 [Funcionalidades](#funcionalidades)
 * 📋 [Execução](#execução)
 * :octocat: [Autores](#autores)
+
   
 ## Descrição
 <p>Landing page inicial de uma escola de música, utilizando diferentes conceitos de estilização e responsividade para diferentes tamanhos de tela.</p>
 
+
 ## Demo
 ![](assets/demo/landing-page.gif)
+
 
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/>
@@ -23,9 +26,13 @@
 
 ## Funcionalidades
 - `Funcionalidade 1`: Exibir informações genéricas sobre uma escola de música ficticia e seus cursos.
+
+
 ## Execução
 - `Passo 1`: Baixar o projeto.
 - `Passo 2`: No prompt de comando, executar o comando `npm start`.
+
+
 ## Autores
 | [<img src="https://avatars.githubusercontent.com/u/97527277" width=115><br><sub>Juan Carlos</sub>](https://github.com/juan-soaraes) |
 | :---: |
